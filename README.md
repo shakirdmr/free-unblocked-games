@@ -10,6 +10,8 @@
 
 **[shawgames.com](https://shawgames.com)** — Play free unblocked games instantly in your browser. No download, no sign-up, no ads. Works on school Chromebooks, laptops, and any device with a browser.
 
+> Mirror: [shakirdmr.github.io/free-unblocked-games](https://shakirdmr.github.io/free-unblocked-games/)
+
 ---
 
 ## Why ShawGames
