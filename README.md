@@ -1,6 +1,6 @@
 # ShawGames — 250+ Free Unblocked Browser Games
 
-[![ShawGames Preview](https://api.microlink.io/?url=https%3A%2F%2Fshawgames.com&screenshot=true&meta=false&embed=screenshot.url&colorScheme=light&type=jpeg)](https://shawgames.com)
+[![ShawGames Preview](preview.png)](https://shawgames.com)
 
 ![Games](https://img.shields.io/badge/Games-250%2B-orange?style=flat-square)
 ![No Download](https://img.shields.io/badge/No%20Download-Required-green?style=flat-square)
