@@ -66,6 +66,7 @@
 
 | Post | Link |
 |---|---|
+| The Story of ShawGames — 250+ Free Online Games | [Read on Medium](https://medium.com/p/7479b195fd6f) |
 | Best Unblocked Games for School (2025) | [Read](https://shawgames.com/blog/best-unblocked-games-for-school) |
 | Top 10 Unblocked IO Games to Play Right Now | [Read](https://shawgames.com/blog/best-io-games-unblocked) |
 | Best 2 Player Unblocked Games at School | [Read](https://shawgames.com/blog/best-2-player-unblocked-games-school) |
